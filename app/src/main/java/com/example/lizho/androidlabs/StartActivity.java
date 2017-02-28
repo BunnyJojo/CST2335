@@ -34,7 +34,6 @@ public class StartActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(getApplicationContext(), ListItemsActivity.class);
                 startActivityForResult(intent,5);
-              //  startActivity(intent);
             }
         });
         //second button function

@@ -1,5 +1,20 @@
 <resources>
     <string name="app_name">AndroidLabs</string>
-    <string name="hello_message">Hello World!</string>
-    <string name="ButtonText">I\'m a button</string>
+    <string name="hello_message">Click button to login</string>
+    <string name="ButtonText">I\'m the button</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="testview">Login</string>
+    <string name="passwd">Password</string>
+    <string name="LogIn">Log In</string>
+    <string name="enable">Enable Something</string>
+    <string name="check">Exit Page</string>
+    <string name="radio">Pick One</string>
+    <string name="hint">Login Name</string>
+    <string name="start_chat">Start Chat</string>
+    <string name="send">Send</string>
+    <string name="switchon">Switch is On</string>
+    <string name="switchOff">Switch is Off</string>
+    <string name="alert">Alert</string>
+    <string name="quitInfo">Are you sure you want to quit the app?</string>
+    <string name="share">My information to share</string>
 </resources>
